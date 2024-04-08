@@ -1,7 +1,7 @@
 {
-  "name": "RUMOR",
-  "description": "New to staking? RUMOR is your beginner-friendly gateway to Cardano rewards run by MladenLm. Dive into passive income via seamless & profitable staking with us while securing the network!",
-  "ticker": "RUMOR",
-  "homepage": "https://twitter.com/MladenLm",
-  "extended": "https://mladenlm.github.io/poolMetadata_extended.json"
+"name": "RUMOR • Single Stakepool in Europe, Croatia",
+"description": "RUMOR is your gateway to Cardano rewards and securing the network | Self at Home Hosted Stakepool running on Bare Metal Server",
+"ticker": "RUMOR",
+"homepage": "https://rumorpool.com",
+"extended": "https://mladenlm.github.io/poolMetadata_extended.json"
 }
